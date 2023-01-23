@@ -1,5 +1,10 @@
-## NEXT
+## 0.4.0+5
 
+* Updates code for stricter lint checks.
+
+## 0.4.0+4
+
+* Updates code for stricter lint checks.
 * Updates code for `no_leading_underscores_for_local_identifiers` lint.
 
 ## 0.4.0+3
