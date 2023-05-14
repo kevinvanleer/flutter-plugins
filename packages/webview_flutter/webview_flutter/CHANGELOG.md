@@ -1,3 +1,11 @@
+## 4.0.4
+
+* Adds examples of accessing platform-specific features for each class.
+
+## 4.0.3
+
+* Updates example code for `use_build_context_synchronously` lint.
+
 ## 4.0.2
 
 * Updates code for stricter lint checks.
